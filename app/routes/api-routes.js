@@ -97,5 +97,4 @@ res.redirect('/');
         res.json(dbPost);
 
       });
-      // res.json("hi");
   });
